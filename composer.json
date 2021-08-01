@@ -1,0 +1,19 @@
+{
+    "name": "msmoney_sdk/php-sdk",
+    "description": "The comprehensive Yemeni payment platform",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "MsmoneySdk\\PhpSdk\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mohmmed246741",
+            "email": "mohmmed.246741@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
