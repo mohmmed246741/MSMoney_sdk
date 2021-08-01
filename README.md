@@ -1,7 +1,7 @@
 The comprehensive Yemeni payment platform
 
 
-
+install package composer require msmoney_sdk/php-sdk
 
 create file example.php and add code:
 <?php
